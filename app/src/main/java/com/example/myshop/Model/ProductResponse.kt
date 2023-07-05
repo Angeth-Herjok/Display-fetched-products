@@ -1,4 +1,6 @@
-package com.example.myshop
+package com.example.myshop.Model
+
+import com.example.myshop.Model.Product
 
 data class ProductResponse (
     var products: List<Product>,

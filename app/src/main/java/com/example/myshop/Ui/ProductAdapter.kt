@@ -1,10 +1,9 @@
-package com.example.myshop
+package com.example.myshop.Ui
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.myshop.Model.Product
 import com.example.myshop.databinding.ItemProductBinding
 import com.squareup.picasso.Picasso
 import jp.wasabeef.picasso.transformations.CropCircleTransformation
